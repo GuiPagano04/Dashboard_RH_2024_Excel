@@ -14,7 +14,11 @@ Este dashboard é um modelo simples e funcional, ideal para ilustrar como dados 
 
 Observação: Todos os dados, incluindo nomes e informações, são fictícios e gerados por inteligência artificial.
 
+[Baixar Dashboard RH (Excel)](https://github.com/GuiPagano04/Dashboard_RH_2024_Excel/raw/main/Dashboard_RH_2024_Excel.xlsm)
+
+
+
 ![Dashboard de RH](https://github.com/GuiPagano04/Dashboard_RH_2024_Excel/blob/main/Dashboard_RH_2024_Excel.png?raw=true)
 
 
-[Baixar Dashboard RH (Excel)](https://github.com/GuiPagano04/Dashboard_RH_2024_Excel/raw/main/Dashboard_RH_2024_Excel.xlsm)
+
